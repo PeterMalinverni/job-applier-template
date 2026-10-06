@@ -1,0 +1,12 @@
+# Personal data: never commit
+inputs/*
+!inputs/README.md
+!inputs/source/
+inputs/source/*
+!inputs/source/.gitkeep
+applications/
+pipeline-batches/
+resume-creation-failure-feedback.md
+jobs.txt
+
+.DS_Store
