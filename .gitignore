@@ -6,7 +6,7 @@ inputs/source/*
 !inputs/source/.gitkeep
 applications/
 pipeline-batches/
-resume-creation-failure-feedback.md
+/resume-creation-failure-feedback.md
 jobs.txt
 
 .DS_Store
